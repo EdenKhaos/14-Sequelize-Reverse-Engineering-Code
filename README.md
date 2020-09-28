@@ -20,7 +20,7 @@ SO THAT I don't have to worry about using "X"
 - [Google Doc Link](https://docs.google.com/document/d/1_V_X4MepGOkenJGWTJXDRBUzvEVPWKhCV2vUz4cM7EI/edit?usp=sharing)
 
 ## Walk-through Video
-- [Video Link]
+- [Video Link](https://youtu.be/Q3bUt6DlvIM)
 
 ## Tech Used
 * BCRYPTJS
