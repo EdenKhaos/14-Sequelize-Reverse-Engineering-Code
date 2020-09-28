@@ -1,3 +1,4 @@
+// connects to database and imports users log in data
 'use strict';
 
 var fs        = require('fs');
